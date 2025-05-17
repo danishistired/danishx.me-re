@@ -6,9 +6,9 @@ export const BASE_COLOR = 'zinc';
 export const ACCENT_COLOR = 'cyan';
 
 export const SOCIALS = {
-	BLUESKY: 'https://bsky.app/profile/flo-bit.dev',
-	GITHUB: 'https://github.com/flo-bit',
-	LINKEDIN: 'https://www.linkedin.com/in/floriankillius/',
-	MAIL: 'mailto:flo.bit.dev@gmail.com',
+	BLUESKY: 'https://bsky.app/profile/dahahanish.bsky.social',
+	GITHUB: 'https://github.com/danishistired',
+	LINKEDIN: 'https://www.linkedin.com/in/danish--verma/',
+	MAIL: 'mailto:danish.verma1116@gmail.com',
 	SUBSTACK: 'https://flobit.substack.com/'
 };
