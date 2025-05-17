@@ -9,87 +9,62 @@
 
   const learnings: Learning[] = [
     {
-      title: "local first and crdts",
-      description:
-        "working with roomy.chat and the stuff its built on.",
-      date: "2025-04",
-    },
-    {
-      title: "bluesky api and at protocol",
-      description:
-        "built way to many bluesky visualizations. lots of fun.",
-      date: "2024-11",
-    },
-    {
       title: "Astro",
       description:
         "been really liking astro, reminds me of svelte, but even better for content driven static sites.",
-      date: "2024-10",
+      date: "2025-01",
     },
     {
-      title: "blender",
+      title: "huggingface api",
       description:
-        'making some low poly models in blender, lots of fun once you get over the "i\'m overwhelmed" feeling',
-      date: "2024-09",
-    },
-    {
-      title: "pixi.js",
-      description:
-        "been playing around with pixi.js for some game jams. awesome library for 2d games.",
-      date: "2024-07",
-    },
-    {
-      title: "rapier",
-      description:
-        "explored the internals of the physics engine rapier for a game engine i'm working on.",
-      date: "2024-06",
-    },
-    {
-      title: "supabase",
-      description:
-        "started using supabase for a few projects. still prefer mongodb as a database, but it has some cool features.",
-      date: "2024-05",
+        "started using free apis for some demanding problems in hackathons.",
+      date: "2024-11",
     },
     {
       title: "unity and vr",
       description:
         "been working on a vr game in unity as part of a university project. uff, not a big fan of unity.",
-      date: "2024-03",
+      date: "2024-10",
+    },
+    {
+      title: "flutter",
+      description: "switched from figma to flutter and never looked back. i use it to make all my applications including my most successful project ecomitra.",
+      date: "2024-09",
     },
     {
       title: "figma",
       description:
         "playing around a bit designing some websites and app wireframes in figma",
-      date: "2024-01",
-    },
-    {
-      title: "threlte",
-      description:
-        "awesome library combining svelte and three.js. also used on this website.",
-      date: "2023-12",
-    },
-    {
-      title: "mongodb",
-      description: "switched from mysql to mongodb and never looked back.",
-      date: "2023-09",
+      date: "2024-08",
     },
     {
       title: "svelte and sveltekit",
       description:
         "love svelte, my favourite framework for web development. i use it for most of my personal projects, including this website.",
-      date: "2023-06",
+      date: "2024-06",
     },
     {
-      title: "tailwindcss",
-      description:
-        "the best bad idea in web development. better than pure css by far. used in most of my newer projects including this website.",
+      title: "tailwind",
+      description: "the best bad idea in web development. better than pure css by far. used in most of my newer projects including this website.",
       date: "2023-05",
     },
     {
-      title: "react, next.js and reactnative",
+      title: "blender",
       description:
-        "not the biggest fan of react, but it's still the most popular framework out there and on the native side there's no good alternative yet.",
+        'making some low poly donuts in blender, lots of fun once you get over the "i\'m overwhelmed" feeling',
       date: "2023-01",
+    },
+    {
+      title: "html",
+      description:
+        "wanted to design websites, so html was the next language to go to.",
+      date: "2022-06",
+    },
+    {
+      title: "python",
+      description:
+        "just to figure out this whole coding thing, i started with the language google told me was the easiest to learn",
+      date: "2022-03",
     },
   ];
 
