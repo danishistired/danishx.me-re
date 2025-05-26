@@ -4,7 +4,7 @@ this is my portfolio, created using astro, svelte, threlte, threejs and tailwind
 
 ## demos
 
-[see it live here](https://flo-bit.dev/)
+[see it live here](https://danishx.me/)
 
 ![screenshot](/static/image.jpg)
 

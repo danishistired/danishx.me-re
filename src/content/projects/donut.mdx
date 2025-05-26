@@ -1,0 +1,34 @@
+---
+name: 'spinning donut'
+date: '2025-05-23'
+featured: true
+
+thumbnail: '/src/assets/projects/donut/donut.png'
+video: '/src/assets/projects/donut/donut.mp4'
+aspect: 'aspect-[26/16]'
+projectUrl: 'https://danishistired.github.io/spinning-donut/'
+codeUrl: 'https://github.com/danishistired/spinning-donut'
+
+projectPageVersion: 'full'
+demo: 'fluid'
+tags:
+  - 'static'
+  - 'html'
+  - 'c'
+
+
+mainTags:
+  - 'html'
+  - 'c'
+
+---
+import ProjectGrid from "$components/ProjectPages/ProjectGrid.astro";
+import DonutDemo from "$components/Demos/fluid-text-effect/DonutDemo.astro";
+
+<ProjectGrid project={frontmatter}>
+  <div slot="demo">
+    <DonutDemo />
+  </div>
+
+was sitting idle and thought of recreating something i saw on the web in my own way.
+</ProjectGrid>
