@@ -10,7 +10,7 @@ this is my portfolio, created using astro, svelte, threlte, threejs and tailwind
 
 demo videos:
 
-https://github.com/user-attachments/assets/757d9b20-2232-4012-8013-68d5997960e6
+https://github.com/user-attachments/assets/d11be1e0-94c3-4a1a-a3d7-4943ee81a2a9
 
 ## techstack
 
@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/757d9b20-2232-4012-8013-68d5997960e6
 clone the repo, install dependencies and run the dev server:
 
 ```bash
-git clone https://github.com/flo-bit/flo-bit.github.io.git
+git clone https://github.com/danishistired/danishx.me-re.git
 npm install
 npm run dev
 ```
