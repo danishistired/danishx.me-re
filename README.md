@@ -6,8 +6,6 @@ this is my portfolio, created using astro, svelte, threlte, threejs and tailwind
 
 [see it live here](https://danishx.me/)
 
-![screenshot](/static/image.jpg)
-
 demo videos:
 
 https://github.com/user-attachments/assets/d11be1e0-94c3-4a1a-a3d7-4943ee81a2a9
